@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69380421553",
+    "firebase_url": "https://fusion-fffbc.firebaseio.com",
+    "project_id": "fusion-fffbc",
+    "storage_bucket": "fusion-fffbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69380421553:android:43f4ce87834ab3a3",
+        "android_client_info": {
+          "package_name": "edmt.dev.androidnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69380421553-menl8o9i3b11qbe6hoq57jd1dkaemdhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edmt.dev.androidnewsapp",
+            "certificate_hash": "3d73be9f8be84d512eacd030f0851f7639794762"
+          }
+        },
+        {
+          "client_id": "69380421553-hahj2jno6im1rf5n3k93mml6eung6ihk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD78iBIxQPTVISjgWZkXZV9w9yGeH9dcZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69380421553-hahj2jno6im1rf5n3k93mml6eung6ihk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
